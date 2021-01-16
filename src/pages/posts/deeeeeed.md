@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Deeeed! Waaaat?
 subtitle: lorem-ipsum
 date: '2021-01-16'
 thumb_img_alt: lorem-ipsum
